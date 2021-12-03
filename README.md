@@ -1,4 +1,4 @@
 # MAFIA-BOT
 OLD REPO
 
-[![⚡🔥MafiaBot🔥⚡](https://github.com/MafiaBotOP/MafiaBot)]
+[⚡🔥MafiaBot🔥⚡](https://github.com/MafiaBotOP/MafiaBot)
